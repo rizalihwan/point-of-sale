@@ -28,15 +28,6 @@
     |admin|password|admin|
 11. Open link `localhost:8000` as default on your browser
 
-## Contributing
-
-Thank you for considering contributing to my project! How to contribute:
-1. Fork this Application
-2. Create branch `git checkout -b yourName/develop`
-3. Commit your contribution `git commit -m "New Feature has been Added"`
-4. Push to your branch `git push origin yourName/develop`
-5. Create Pull Request
-
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
