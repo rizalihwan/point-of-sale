@@ -15,8 +15,8 @@
 4. Run `composer install`
 5. Create `.env` file with command `cp .env.example .env`
 6. Generate key inside `.env` file by `php artisan key:generate`
-7. Start your XAMPP service
-8. Create database on XAMPP, example name: `db_laravel`
+7. Start your XAMPP/etc service
+8. Create database on XAMPP/etc, example name: `db_laravel`
 9. Open `.env` file and config your database:
     ```sh
     DB_DATABASE='db_laravel'
